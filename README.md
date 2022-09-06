@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sano84
+- 👋 Hi, I’m Husni Sabah
 - 👀 I’m interested in sql, R, QGIS and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
