@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Husni Sabah
-- 👀 I’m interested in sql, R, QGIS and web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
+- 👀 I am interested in building interactive maps, web GIS
 - 📫 How to reach me email: husnins@mail.com
 
 <!---
