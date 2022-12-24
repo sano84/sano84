@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Husni Sabah
-- 👀 I am interested in building interactive maps, web GIS
+- 👀 I am interested in building interactive maps
 - 📫 How to reach me email: husnins@mail.com
 
 <!---
