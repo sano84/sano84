@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Husni Sabah
-- 👀 I am interested in sustainability
+
 - 📫 How to reach me email: husnins@mail.com
 
 <!---
