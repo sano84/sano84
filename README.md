@@ -1,5 +1,4 @@
 
-- 📫 How to reach me email: husnins@mail.com
 
 <!---
 sano84/sano84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
